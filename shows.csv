@@ -1,6 +1,114 @@
-Date,Venue,City,Tour,Status
-1996-06-28,Tiger Stadium,"Detroit, MI",Alive/Worldwide,Searching
-1996-07-25,Madison Square Garden,"New York, NY",Alive/Worldwide,Searching
-1996-08-06,SkyDome,"Toronto, Canada",Changed To Test,Searching
-1996-08-23,Great Western Forum,"Los Angeles, CA",Alive/Worldwide,Searching
-1996-10-31,Irvine Meadows Amphitheater,"Laguna Hills, CA",Alive/Worldwide,Searching
+Date,City,Country,Venue,Opening Act(s)
+"June 15, 1996",Irvine,United States,Irvine Meadows Amphitheatre,Red Hot Chili Peppers
+"June 28, 1996",Detroit,United States,Tiger Stadium,Alice in Chains Sponge
+"June 30, 1996",Louisville,United States,Freedom Hall,Alice in Chains
+"July 2, 1996",St. Louis,United States,Kiel Center,Alice in Chains
+"July 3, 1996",Kansas City,United States,Kemper Arena,Alice in Chains
+"July 5, 1996",Dallas,United States,Reunion Arena,Pushmonkey
+"July 6, 1996",Houston,United States,The Summit,Pushmonkey
+"July 7, 1996",San Antonio,United States,Alamodome,Pushmonkey
+"July 9, 1996",New Orleans,United States,Louisiana Superdome,The Melvins
+"July 10, 1996",Memphis,United States,Pyramid Arena,The Melvins
+"July 12, 1996",Moline,United States,The MARK of the Quad Cities,The Melvins
+"July 13, 1996",Saint Paul,United States,St. Paul Civic Center,The Melvins
+"July 14, 1996",Rosemont,United States,Rosemont Horizon,The Melvins
+"July 16, 1996",Rosemont,United States,Rosemont Horizon,The Nixons
+"July 17, 1996",Fairborn,United States,Ervin J. Nutter Center,The Nixons
+"July 19, 1996",Cleveland,United States,Gund Arena,The Nixons
+"July 20, 1996",Cleveland,United States,Gund Arena,D Generation
+"July 21, 1996",Pittsburgh,United States,Civic Arena,The Nixons
+"July 22, 1996",Pittsburgh,United States,Civic Arena,D Generation
+"July 25, 1996",New York City,United States,Madison Square Garden,D Generation
+"July 26, 1996",New York City,United States,Madison Square Garden,CIV
+"July 27, 1996",New York City,United States,Madison Square Garden,311
+"July 28, 1996",New York City,United States,Madison Square Garden,The Nixons
+"July 30, 1996",Boston,United States,FleetCenter,The Nixons
+"July 31, 1996",Boston,United States,FleetCenter,D Generation
+"August 2, 1996",Quebec City,Canada,Colisée de Quebec,D Generation
+"August 3, 1996",Montreal,Canada,Molson Centre,D Generation
+"August 5, 1996",Ottawa,Canada,Corel Centre,D Generation
+"August 6, 1996",Toronto,Canada,SkyDome,D Generation
+"August 8, 1996",Cincinnati,United States,Riverfront Coliseum,D Generation
+"August 9, 1996",Indianapolis,United States,Market Square Arena,D Generation
+"August 10, 1996",Milwaukee,United States,Bradley Center,D Generation
+"August 17, 1996 [ a ]",Leicestershire,England,Castle Donington,—
+"August 21, 1996",Phoenix,United States,America West Arena,Stabbing Westward
+"August 23, 1996",Inglewood,United States,Great Western Forum,Stabbing Westward
+"August 24, 1996",Inglewood,United States,Great Western Forum,Stabbing Westward
+"August 25, 1996",Inglewood,United States,Great Western Forum,Red Five
+"August 27, 1996",San Jose,United States,San Jose Arena,Stabbing Westward
+"August 28, 1996",Sacramento,United States,ARCO Arena,Stabbing Westward
+"August 30, 1996",Portland,United States,Rose Garden Arena,Stabbing Westward
+"August 31, 1996",Tacoma,United States,Tacoma Dome,Stabbing Westward
+"September 1, 1996",Spokane,United States,Spokane Arena,Stabbing Westward
+"September 2, 1996",Vancouver,Canada,General Motors Place,Stabbing Westward
+"September 5, 1996",Salt Lake City,United States,Delta Center,The Hunger
+"September 7, 1996",Denver,United States,McNichols Sports Arena,The Hunger
+"September 8, 1996",Denver,United States,McNichols Sports Arena,The Hunger
+"September 10, 1996",Valley Center,United States,Britt Brown Arena,The Hunger
+"September 11, 1996",Oklahoma City,United States,Myriad Convention Center,The Hunger
+"September 13, 1996",Tupelo,United States,Tupelo Coliseum,The Hunger
+"September 14, 1996",Birmingham,United States,BJCC Coliseum,The Hunger
+"September 15, 1996",Pensacola,United States,Pensacola Civic Center,The Verve Pipe
+"September 17, 1996",Miami,United States,Miami Arena,The Verve Pipe
+"September 19, 1996",Jacksonville,United States,Jacksonville Coliseum,The Verve Pipe
+"September 20, 1996",St. Petersburg,United States,Thunderdome,The Verve Pipe
+"September 22, 1996",Orlando,United States,Orlando Arena,The Verve Pipe
+"September 24, 1996",North Charleston,United States,North Charleston Coliseum,The Verve Pipe
+"September 25, 1996",Columbia,United States,Carolina Coliseum,The Verve Pipe
+"September 27, 1996",Charlotte,United States,Charlotte Coliseum,The Verve Pipe
+"September 28, 1996",Greensboro,United States,Greensboro Coliseum,The Verve Pipe
+"September 29, 1996",Knoxville,United States,Thompson–Boling Arena,The Verve Pipe
+"October 1, 1996",Atlanta,United States,Omni Coliseum,The Verve Pipe
+"October 2, 1996",Atlanta,United States,Omni Coliseum,The Bogmen
+"October 4, 1996",Roanoke,United States,Roanoke Civic Center,The Bogmen
+"October 5, 1996",Hampton,United States,Hampton Coliseum,The Bogmen
+"October 6, 1996",Landover,United States,USAir Arena,The Bogmen
+"October 7, 1996",Landover,United States,USAir Arena,Deftones
+"October 8, 1996",Philadelphia,United States,CoreStates Center,The Bogmen
+"October 9, 1996",Philadelphia,United States,CoreStates Center,Deftones
+"October 11, 1996",Philadelphia,United States,CoreStates Center,Deftones
+"October 12, 1996",Albany,United States,Knickerbocker Arena,Deftones
+"October 13, 1996",Buffalo,United States,Marine Midland Arena,Deftones
+"October 15, 1996",Indianapolis,United States,Market Square Arena,Deftones
+"October 16, 1996",Auburn Hills,United States,The Palace of Auburn Hills,Deftones
+"October 17, 1996",Auburn Hills,United States,The Palace of Auburn Hills,Coyote Shivers
+"October 18, 1996",Lexington,United States,Rupp Arena,Deftones
+"October 20, 1996",Cleveland,United States,Gund Arena,Deftones
+"October 21, 1996",Rosemont,United States,Rosemont Horizon,Deftones
+"October 23, 1996",Omaha,United States,Omaha Civic Auditorium,Royal Crown Revue
+"October 24, 1996",Omaha,United States,Omaha Civic Auditorium,Royal Crown Revue
+"October 26, 1996",Las Cruces,United States,Pan American Center,Fluffy
+"October 27, 1996",Albuquerque,United States,Tingley Coliseum,Fluffy
+"October 29, 1996",San Diego,United States,San Diego Sports Arena,Caroline's Spine
+"October 31, 1996",Irvine,United States,Irvine Meadows Amphitheatre,Poe
+"November 1, 1996",Irvine,United States,Irvine Meadows Amphitheatre,Reel Big Fish
+"November 2, 1996",Las Vegas,United States,MGM Grand Garden Arena,Caroline's Spine
+"November 5, 1996",Austin,United States,Frank Erwin Center,Johnny Bravo
+"November 6, 1996",Lafayette,United States,Cajundome,Johnny Bravo
+"November 7, 1996",Shreveport,United States,Hirsch Memorial Coliseum,Johnny Bravo
+"November 9, 1996",Little Rock,United States,Barton Coliseum,Johnny Bravo
+"November 10, 1996",Dallas,United States,Reunion Arena,Johnny Bravo
+"November 20, 1996",Birmingham,England,NEC Arena,The Verve Pipe
+"November 21, 1996",Manchester,England,NYNEX Arena,The Verve Pipe
+"November 25, 1996",London,England,Wembley Arena,The Verve Pipe
+"December 1, 1996",Brussels,Belgium,Forest National,The Verve Pipe
+"December 2, 1996",Paris,France,Zénith de Paris,The Verve Pipe
+"December 4, 1996",Berlin,Germany,Deutschlandhalle,Die Ärzte
+"December 6, 1996",Stockholm,Sweden,Globen Arena,The Verve Pipe
+"December 7, 1996",Gothenburg,Sweden,Scandinavium,The Verve Pipe
+"December 8, 1996",Oslo,Norway,Oslo Spektrum,The Verve Pipe
+"December 10, 1996",Rotterdam,Netherlands,Rotterdam Ahoy,The Verve Pipe
+"December 11, 1996",Frankfurt,Germany,Festhalle Frankfurt,Die Ärzte
+"December 12, 1996",Oberhausen,Germany,Oberhausen Arena,Die Ärzte
+"December 14, 1996",Prague,Czech Republic,Sportovní hala,The Verve Pipe
+"December 15, 1996",Prague,Czech Republic,Sportovní hala,The Verve Pipe
+"December 16, 1996",Vienna,Austria,Libro Music Hall,The Verve Pipe
+"December 18, 1996",Milan,Italy,Filaforum,The Verve Pipe
+"December 19, 1996",Zürich,Switzerland,Hallenstadion,The Verve Pipe
+"December 20, 1996",Stuttgart,Germany,Schleyerhalle,Die Ärzte
+"December 21, 1996",Dortmund,Germany,Westfalenhalle,Die Ärzte
+"December 28, 1996",Worcester,United States,Worcester Centrum,The 4th Floor
+"December 29, 1996",Uniondale,United States,Nassau Veterans Memorial Coliseum,The 4th Floor
+"December 30, 1996",Hartford,United States,Hartford Civic Center,The 4th Floor
+"December 31, 1996",East Rutherford,United States,Continental Airlines Arena,The 4th Floor
